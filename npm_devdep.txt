@@ -1,1 +1,4 @@
+npm i eslint eslint-config-airbnb eslint-config-prettier eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-node eslint-plugin-prettier eslint-plugin-react prettier
 
+
+to change config we edit json file by referring eslint official website
